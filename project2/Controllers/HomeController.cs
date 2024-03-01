@@ -25,10 +25,15 @@ public class HomeController : Controller
     {
         return View();
     }
+    public IActionResult signup()
+    {
+        return View();
+    }
     public IActionResult signin()
     {
         return View();
     }
+  
 
     public IActionResult Privacy()
     {
