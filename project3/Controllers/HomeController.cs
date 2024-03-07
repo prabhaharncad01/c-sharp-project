@@ -25,6 +25,22 @@ public class HomeController : Controller
     {
         return View();
     }
+    public IActionResult username()
+    {
+        return View();
+    }
+    public IActionResult profile()
+    {
+        return View();
+    }
+    public IActionResult logout()
+    {
+        return View();
+    }
+    public IActionResult signup()
+    {
+        return View();
+    }
 
     public IActionResult Privacy()
     {
