@@ -37,7 +37,8 @@ public class HomeController : Controller
     {
         return View();
     }
-    public IActionResult signup()
+
+    public IActionResult signinup()
     {
         return View();
     }
