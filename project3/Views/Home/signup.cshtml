@@ -1,0 +1,31 @@
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container"  style="border: 1px solid black; padding: 30px; width: 50%; border-radius: 6px;   margin: 50px;">
+  <form action="" id="form">
+    <h1>SignUp</h1>
+    <div class="form-group">
+      <label for="username">Username</label>
+      <input type="text" class="form-control" id="username" name="username">
+      <div class="error"></div>
+    </div>
+    <div class="form-group">
+      <label for="email">Email</label>
+      <input type="text" class="form-control" id="email" name="email">
+      <div class="error"></div>
+    </div>
+    <div class="form-group">
+      <label for="password">Password</label>
+      <input type="password" class="form-control" id="password" name="password">
+      <div class="error"></div>
+    </div>
+    <div class="form-group">
+      <label for="cpassword">Confirm password</label>
+      <input type="password" class="form-control" id="cpassword" name="cpassword">
+      <div class="error"></div>
+    </div>
+    <button type="submit" class="btn btn-primary mt-3" onclick="signup()">SignUp</button>
+  </form>
+</div>
+
