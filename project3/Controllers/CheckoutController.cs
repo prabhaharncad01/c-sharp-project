@@ -1,4 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
+using System.Diagnostics;
+using project3.Models;
+using Microsoft.Data.SqlClient;
 
 namespace project3.Controllers
 {

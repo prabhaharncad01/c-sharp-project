@@ -1,0 +1,19 @@
+@model Product <!-- Assuming the model is a Product object -->
+
+@{
+    ViewData["Title"] = "Product Details";
+}
+
+<div class="container">
+    <h1>Product Details</h1>
+    <div class="card">
+        <img src="https://via.placeholder.com/400" class="card-img-top" alt="Product Image">
+        <div class="card-body">
+            <h5 class="card-title">@Model.Name</h5>
+            <p class="card-text">Description: @Model.Description</p>
+            <p class="card-text">Price: $@Model.Price</p>
+            <p class="card-text">Stock Level: @Model.StockLevel</p>
+            <a href="@Url.Action('Index', 'Product')" class="btn btn-secondary">Back to Products</a>
+        </div>
+    </div>
+</div>
