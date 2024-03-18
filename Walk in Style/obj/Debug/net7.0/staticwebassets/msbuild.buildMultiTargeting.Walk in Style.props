@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Walk in Style.props" />
+</Project>

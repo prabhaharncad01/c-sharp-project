@@ -20,3 +20,34 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.animated-text h5,
+.animated-text p {
+  color: blue;
+}
+
+.animate-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  width: 100px;
+  animation: slideRightToLeft 1s ease-in-out;
+}
+
+.animate-text h5,
+.animate-text p {
+  color: blue;
+}
+
+@keyframes slideRightToLeft {
+  0% {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  100% {
+    transform: translateX(0%);
+    opacity: 1;
+  }
+}
