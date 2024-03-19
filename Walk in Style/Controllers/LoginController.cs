@@ -4,11 +4,11 @@ using Walk_in_Style.Models;
 
 namespace Walk_in_Style.Controllers;
 
-public class HomeController : Controller
+public class LoginController : Controller
 {
-    private readonly ILogger<HomeController> _logger;
+    private readonly ILogger<LoginController> _logger;
 
-    public HomeController(ILogger<HomeController> logger)
+    public LoginController(ILogger<LoginController> logger)
     {
         _logger = logger;
     }
@@ -18,7 +18,7 @@ public class HomeController : Controller
         return View();
     }
 
-    public IActionResult Privacy()
+    public IActionResult services()
     {
         return View();
     }
