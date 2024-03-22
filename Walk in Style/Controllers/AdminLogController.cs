@@ -31,6 +31,15 @@ namespace Walk_in_Style.Controllers;
             return View();
         }
 
+ public IActionResult login()
+    {
+        return View();
+    }
    
+ public IActionResult register()
+    {
+        return View();
+    }
+
     }
 

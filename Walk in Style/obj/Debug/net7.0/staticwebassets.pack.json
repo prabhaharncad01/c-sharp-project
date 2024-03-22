@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
     },
     {
+      "Id": "C:\\Users\\prabhaharncad01\\Desktop\\CADBATCH\\c-sharp-project\\Walk in Style\\wwwroot\\css\\regstyle.css",
+      "PackagePath": "staticwebassets\\css\\regstyle.css"
+    },
+    {
       "Id": "C:\\Users\\prabhaharncad01\\Desktop\\CADBATCH\\c-sharp-project\\Walk in Style\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -351,6 +355,10 @@
     {
       "Id": "C:\\Users\\prabhaharncad01\\Desktop\\CADBATCH\\c-sharp-project\\Walk in Style\\wwwroot\\images\\converse\\9.jpg",
       "PackagePath": "staticwebassets\\images\\converse\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\prabhaharncad01\\Desktop\\CADBATCH\\c-sharp-project\\Walk in Style\\wwwroot\\images\\error.jpg",
+      "PackagePath": "staticwebassets\\images\\error.jpg"
     },
     {
       "Id": "C:\\Users\\prabhaharncad01\\Desktop\\CADBATCH\\c-sharp-project\\Walk in Style\\wwwroot\\images\\nike\\0.jpg",

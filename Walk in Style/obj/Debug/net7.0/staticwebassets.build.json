@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gsfZZp9DID1o4f8izhhTdEmxF1H0G1ISFBdQGV8w0kc=",
+  "Hash": "nZEG1h+mw2deyO/Oy4OOGuaKHNTKrfcuddJJe9eubXc=",
   "Source": "Walk in Style",
   "BasePath": "_content/Walk in Style",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\prabhaharncad01\\Desktop\\CADBATCH\\c-sharp-project\\Walk in Style\\wwwroot\\css\\regstyle.css",
+      "SourceId": "Walk in Style",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\prabhaharncad01\\Desktop\\CADBATCH\\c-sharp-project\\Walk in Style\\wwwroot\\",
+      "BasePath": "_content/Walk in Style",
+      "RelativePath": "css/regstyle.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\regstyle.css"
     },
     {
       "Identity": "C:\\Users\\prabhaharncad01\\Desktop\\CADBATCH\\c-sharp-project\\Walk in Style\\wwwroot\\css\\site.css",
@@ -1528,6 +1545,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\converse\\9.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\prabhaharncad01\\Desktop\\CADBATCH\\c-sharp-project\\Walk in Style\\wwwroot\\images\\error.jpg",
+      "SourceId": "Walk in Style",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\prabhaharncad01\\Desktop\\CADBATCH\\c-sharp-project\\Walk in Style\\wwwroot\\",
+      "BasePath": "_content/Walk in Style",
+      "RelativePath": "images/error.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\error.jpg"
     },
     {
       "Identity": "C:\\Users\\prabhaharncad01\\Desktop\\CADBATCH\\c-sharp-project\\Walk in Style\\wwwroot\\images\\nike\\0.jpg",
