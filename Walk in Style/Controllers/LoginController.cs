@@ -43,6 +43,22 @@ public class LoginController : Controller
         return View();
     }
 
+ public IActionResult Verifylogin(LoginModel lmodel)
+    {
+conStr();
+con.Open();
+cmd.Connection = con;
+cmd.CommandText="select * from Logins_ps where username=@usrname and password= @pass";
+cmd.parameters.AddWithValue("@usrname",lmodel.username);
+cmd.parameters.AddWithValue("@pass",lmodel.password);
+
+
+
+
+
+
+
+  
 
     [HttpGet]
     public IActionResult register()

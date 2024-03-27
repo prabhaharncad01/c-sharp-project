@@ -3,36 +3,44 @@ using Microsoft.AspNetCore.Mvc;
 using Walk_in_Style.Models;
 
 namespace Walk_in_Style.Controllers;
+[Route("[controller]")]
 
 
     public class UserController : Controller
     {
-        public ActionResult Index()
+         
+
+      [Route("User/dashboard")]
+        public ActionResult dashboard()
         {
-            return View();
+            return View("dashboard","_LayoutUser");
         }
 
    
         public ActionResult ViewProfile()
         {
-            return View();
+            return View("ViewProfile","_LayoutUser");
         }
 
         public ActionResult ViewOrders()
         {
-            return View();
+            return View("ViewOrders","_LayoutUser");
         }
 
         public ActionResult ViewCart()
         {
-            return View();
+            return View("ViewCart","_LayoutUser");
         }
 
         public ActionResult EditProfile()
         {
-            return View();
+            return View("EditProfile","_LayoutUser");
         }
-
+     
        
     }
+    
+
+
+    
 

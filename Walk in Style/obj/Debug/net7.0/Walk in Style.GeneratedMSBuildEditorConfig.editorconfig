@@ -16,6 +16,30 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Users\prabhaharncad01\Desktop\CADBATCH\c-sharp-project\Walk in Style
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/prabhaharncad01/Desktop/CADBATCH/c-sharp-project/Walk in Style/Views/Admin/dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/prabhaharncad01/Desktop/CADBATCH/c-sharp-project/Walk in Style/Views/Admin/error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cZXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/prabhaharncad01/Desktop/CADBATCH/c-sharp-project/Walk in Style/Views/Admin/ManageOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWFuYWdlT3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/prabhaharncad01/Desktop/CADBATCH/c-sharp-project/Walk in Style/Views/Admin/ManageProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWFuYWdlUHJvZHVjdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/prabhaharncad01/Desktop/CADBATCH/c-sharp-project/Walk in Style/Views/Admin/ManageUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTWFuYWdlVXNlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/prabhaharncad01/Desktop/CADBATCH/c-sharp-project/Walk in Style/Views/Admin/Reports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUmVwb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/prabhaharncad01/Desktop/CADBATCH/c-sharp-project/Walk in Style/Views/Login/about.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cYWJvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -44,12 +68,64 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cc2VydmljZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/prabhaharncad01/Desktop/CADBATCH/c-sharp-project/Walk in Style/Views/Seller/dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVyXGRhc2hib2FyZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/prabhaharncad01/Desktop/CADBATCH/c-sharp-project/Walk in Style/Views/Seller/error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVyXGVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/prabhaharncad01/Desktop/CADBATCH/c-sharp-project/Walk in Style/Views/Seller/ManageCustomers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVyXE1hbmFnZUN1c3RvbWVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/prabhaharncad01/Desktop/CADBATCH/c-sharp-project/Walk in Style/Views/Seller/ManageInventory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVyXE1hbmFnZUludmVudG9yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/prabhaharncad01/Desktop/CADBATCH/c-sharp-project/Walk in Style/Views/Seller/ManageOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVyXE1hbmFnZU9yZGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/prabhaharncad01/Desktop/CADBATCH/c-sharp-project/Walk in Style/Views/Seller/ManageProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVyXE1hbmFnZVByb2R1Y3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/prabhaharncad01/Desktop/CADBATCH/c-sharp-project/Walk in Style/Views/Seller/ViewSales.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVyXFZpZXdTYWxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/prabhaharncad01/Desktop/CADBATCH/c-sharp-project/Walk in Style/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/prabhaharncad01/Desktop/CADBATCH/c-sharp-project/Walk in Style/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/prabhaharncad01/Desktop/CADBATCH/c-sharp-project/Walk in Style/Views/User/dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxkYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/prabhaharncad01/Desktop/CADBATCH/c-sharp-project/Walk in Style/Views/User/EditProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0UHJvZmlsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/prabhaharncad01/Desktop/CADBATCH/c-sharp-project/Walk in Style/Views/User/error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxlcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/prabhaharncad01/Desktop/CADBATCH/c-sharp-project/Walk in Style/Views/User/ViewCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxWaWV3Q2FydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/prabhaharncad01/Desktop/CADBATCH/c-sharp-project/Walk in Style/Views/User/ViewOrders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxWaWV3T3JkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/prabhaharncad01/Desktop/CADBATCH/c-sharp-project/Walk in Style/Views/User/ViewProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxWaWV3UHJvZmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/prabhaharncad01/Desktop/CADBATCH/c-sharp-project/Walk in Style/Views/_ViewImports.cshtml]
@@ -63,3 +139,15 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/prabhaharncad01/Desktop/CADBATCH/c-sharp-project/Walk in Style/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-i7wcfhe010
+
+[C:/Users/prabhaharncad01/Desktop/CADBATCH/c-sharp-project/Walk in Style/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-j04ngm2ce9
+
+[C:/Users/prabhaharncad01/Desktop/CADBATCH/c-sharp-project/Walk in Style/Views/Shared/_LayoutSeller.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRTZWxsZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-wu6mee74i8
+
+[C:/Users/prabhaharncad01/Desktop/CADBATCH/c-sharp-project/Walk in Style/Views/Shared/_LayoutUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-74iixuhat2

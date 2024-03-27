@@ -26,7 +26,7 @@
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm 
 navbar-dark bg-dark border-bottom box-shadow mb-3">
             <div class="container-fluid">
-                <a class="navbar-brand font-weight-bold text-primary" asp-area="" asp-controller="Admin" asp-action="dashboard">Walk in Style</a>
+                <a class="navbar-brand font-weight-bold text-primary" asp-area="" asp-controller="Seller" asp-action="dashboard">Walk in Style</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -34,26 +34,29 @@ navbar-dark bg-dark border-bottom box-shadow mb-3">
    <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item">
-                    <a class="nav-link text-danger" asp-area="" asp-controller="Admin" asp-action="dashboard">dashboard</a>
+                    <a class="nav-link text-danger" asp-area="" asp-controller="Seller" asp-action="dashboard">dashboard</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-primary" asp-area="" asp-controller="Admin" asp-action="ManageProducts">ManageProducts</a>
+                    <a class="nav-link text-primary" asp-area="" asp-controller="Seller" asp-action="ManageProducts">ManageProducts</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-primary" asp-area="" asp-controller="Admin" asp-action="ManageOrders">ManageOrders</a>
+                    <a class="nav-link text-primary" asp-area="" asp-controller="Seller" asp-action="ManageOrders">ManageOrders</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-primary"asp-area="" asp-controller="Admin" asp-action="ManageUsers">ManageUsers</a>
+                    <a class="nav-link text-primary"asp-area="" asp-controller="Seller" asp-action="ViewSales">ViewSales</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-primary"asp-area="" asp-controller="Admin" asp-action="Reports">Reports</a>
+                    <a class="nav-link text-primary"asp-area="" asp-controller="Seller" asp-action="ManageCustomers">ManageCustomers</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-primary"asp-area="" asp-controller="Seller" asp-action=" ManageInventory"> ManageInventory</a>
                 </li>
             </ul>
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link text-primary"asp-area="" asp-controller="login" asp-action="login">Login</a>
+                    <a class="nav-link text-primary"asp-area="" asp-controller="Login" asp-action="login">Login</a>
                 </li>
-                
+
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle text-light" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Profile
