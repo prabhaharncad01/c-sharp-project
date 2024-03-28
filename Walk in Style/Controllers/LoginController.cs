@@ -48,17 +48,62 @@ public class LoginController : Controller
 conStr();
 con.Open();
 cmd.Connection = con;
-cmd.CommandText="select * from Logins_ps where username=@usrname and password= @pass";
-cmd.parameters.AddWithValue("@usrname",lmodel.username);
-cmd.parameters.AddWithValue("@pass",lmodel.password);
+cmd.CommandText="select * from Login_ps where username=@usrname and password= @pass";
+cmd.Parameters.AddWithValue("@usrname",lmodel.username);
+cmd.Parameters.AddWithValue("@pass",lmodel.password);
+
+dr=cmd.ExecuteReader();
+
+if(dr.Read()){
+  string? jobrolecheck= dr["jobrole"].ToString();
+  con.Close();
+
+    if(jobrolecheck=="Seller")
+    {
+      return RedirectToAction("dashboard","Seller");
+    }
+
+    else if(jobrolecheck=="Admin")
+    {
+      return RedirectToAction("dashboard","Admin");
+
+    }
+
+   else{
+     con.Close();
+     return View("Error");
+   }
+
+}
+
+else
+{
+  dr.Close();
+  cmd.CommandText="select* from  Customers_ps where username=@usrname and password= @pass";
+cmd.Parameters.AddWithValue("@usrname",lmodel.username);
+cmd.Parameters.AddWithValue("@pass",lmodel.password);
+dr=cmd.ExecuteReader();
+
+
+if(dr.Read()){
+  con.Close();
+  return RedirectToAction("dashboard","Seller");
+}
+else
+{
+  con.Close();
+  return View("Error");
+}
 
 
 
 
+}
+
+    }
 
 
 
-  
 
     [HttpGet]
     public IActionResult register()

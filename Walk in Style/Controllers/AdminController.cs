@@ -2,8 +2,8 @@ using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Walk_in_Style.Models;
 
-namespace Walk_in_Style.Controllers;
-
+namespace Walk_in_Style.Controllers
+{
 [Route("[controller]")]
 
     public class AdminController : Controller
@@ -38,4 +38,5 @@ namespace Walk_in_Style.Controllers;
         }
 
     }
+}
 
